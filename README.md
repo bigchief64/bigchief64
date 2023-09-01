@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigchief64
-- 👀 I’m interested in application development, computer art, and writing music
-- 🌱 I’m currently learning Go
+- 👀 I’m a software developer
+- 🌱 I’m a cloud developer and familiar with a number of languages
 - 📫 How to reach me bigchief64@yahoo.com
 
 <!---
