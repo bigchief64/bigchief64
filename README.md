@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigchief64
-- 👀 I’m a software developer
-- 🌱 I’m a cloud developer and familiar with a number of languages
+- 👀 I’m a full-stack developer
+- 🌱 I work in Go, TypeScript, Python, and Ruby
 - 📫 How to reach me bigchief64@yahoo.com
 
 <!---
