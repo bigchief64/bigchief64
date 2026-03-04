@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bigchief64
-- 👀 I’m a full-stack developer
-- 🌱 I work in Go, TypeScript, Python, and Ruby
-- 📫 How to reach me bigchief64@yahoo.com
+Backend engineer focused on reliable systems, async processing, and production API integrations.
+
+TypeScript • Node.js • AWS • Go • Python
 
 <!---
 bigchief64/bigchief64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
